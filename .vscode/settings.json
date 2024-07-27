@@ -1,0 +1,23 @@
+{
+    "i18n-ally.localesPaths": [
+        "src/locale",
+        "src/components/message-box/locale",
+        "src/views/chatView/locale",
+        "src/views/files/locale",
+        "src/views/park/locale",
+        "src/views/parkingVip/locale",
+        "src/views/internet_of_things/locale",
+        "src/views/login/locale",
+        "src/views/pay/locale",
+        "src/views/user/locale",
+        "src/views/verification/locale",
+        "src/views/wisdomCommunity/locale",
+        "src/views/dashboard/workplace/locale",
+        "src/views/user/setting/locale",
+        "src/views/visualization/chargingDataCount/locale",
+        "src/views/visualization/multi-dimension-data-analysis/locale",
+        "src/views/visualization/parkingDataCount/locale",
+        "src/views/visualization/parkingDataCount - 副本/locale",
+        "src/views/visualization/villageDataCount/locale"
+    ]
+}

@@ -1,0 +1,18 @@
+export default {
+  'menu.visualization.multiDimensionDataAnalysis': '多维数据分析',
+  'menu.dashboard.parkingDataCount': '车场数据',
+  'menu.dashboard.chargingDataCount': '充电数据',
+  'menu.dashboard.villageDataCount': '社区数据',
+  'multiDAnalysis.card.title.dataOverview': '数据总览',
+  'multiDAnalysis.dataOverview.contentProduction': '停车次数',
+  'multiDAnalysis.dataOverview.contentClick': '充电度数',
+  'multiDAnalysis.dataOverview.contentExposure': '到访次数',
+  'multiDAnalysis.dataOverview.activeUsers': '物业缴费',
+  'multiDAnalysis.card.title.userActions': '异常放行排名',
+  'multiDAnalysis.card.title.contentTypeDistribution': '资产来源分析',
+  'multiDAnalysis.card.title.retentionTrends': '停车场数量',
+  'multiDAnalysis.card.title.userRetention': '充电站数量',
+  'multiDAnalysis.card.title.contentConsumptionTrends': '社区数量',
+  'multiDAnalysis.card.title.contentConsumption': '设备数量',
+  'multiDAnalysis.card.title.contentPublishingSource': '支付渠道详细分析',
+};
